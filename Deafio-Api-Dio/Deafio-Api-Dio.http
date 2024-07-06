@@ -1,0 +1,6 @@
+@Deafio_Api_Dio_HostAddress = http://localhost:5062
+
+GET {{Deafio_Api_Dio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
