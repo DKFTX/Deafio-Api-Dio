@@ -5,20 +5,16 @@ www.dio.me
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
 
 ## Contexto
-Você precisa construir um sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
-
 Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obter os registros, criar, salvar e deletar esses registros.
 
-A sua aplicação deverá ser do tipo Web API ou MVC, fique a vontade para implementar a solução que achar mais adequado.
 
-A sua classe principal, a classe de tarefa, deve ser a seguinte:
+
+Classe principal, classe de tarefa.
 
 ![Diagrama da classe Tarefa](diagrama.png)
 
-Não se esqueça de gerar a sua migration para atualização no banco de dados.
 
-## Métodos esperados
-É esperado que você crie o seus métodos conforme a seguir:
+## Métodos 
 
 
 **Swagger**
